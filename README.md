@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Aviyel Badges
+<a href="https://aviyel.com/@siddharthaviyel" target="_blank" rel="noopener noreferrer"><img src="https://aviyel.com/assets/uploads/rewards/project_rewards/34/aviyel_aviyel_contrib/512/1.png" alt="drawing" width="200"/></a>
+
 <!--
 **siddharth2798/siddharth2798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -12,7 +12,7 @@ jobs:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/if_merged@v1
+      - uses: siddharth2798/if_merged@v1
         with:
           script: |
             github.rest.issues.createComment({

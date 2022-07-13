@@ -13,7 +13,7 @@ jobs:
       - run:echo Checked
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github-script@v5
+      - uses: actions/if_merged@v1
         with:
           script: |
             github.rest.issues.createComment({

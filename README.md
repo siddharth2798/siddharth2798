@@ -1,5 +1,5 @@
 ### Hi there 👋
-This space is still building
+
 <!--
 ## Aviyel Badges
 <a href="https://aviyel.com/@siddharthaviyel" target="_blank" rel="noopener noreferrer"><img src="https://aviyel.com/assets/uploads/rewards/project_rewards/34/aviyel_aviyel_contrib/512/1.png" alt="drawing" width="200"/>

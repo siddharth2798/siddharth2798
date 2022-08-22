@@ -1,4 +1,4 @@
-# Hi 👋, I'm Siddharth | Aviyel
+# Hi 👋, I'm Siddharth
 
 Building sustainable open source communities 💜
 

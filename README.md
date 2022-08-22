@@ -1,21 +1,37 @@
-### Hi there 👋
-<!--
-## Aviyel Badges
-<a href="https://aviyel.com/@siddharthaviyel" target="_blank" rel="noopener noreferrer"><img src="https://aviyel.com/assets/uploads/rewards/project_rewards/34/aviyel_aviyel_contrib/512/1.png" alt="drawing" width="200"/>
-</br></br></br>
-<img src="https://aviyel.com/assets/uploads/rewards/share/user/2202/54/share.png" alt="drawing" width="400"/></a>
+# Hi 👋, I'm Siddharth | Aviyel
 
-<!--
-**siddharth2798/siddharth2798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building sustainable open source communities 💜
 
-Here are some ideas to get you started:
+## Writings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Announcing program for Open source projects](https://aviyel.com/post/3031)
+* [Create a Contributor Guide for your open source community!](https://aviyel.com/post/3369)
+* [Contributing to Open Source with Aviyel](https://aviyel.com/post/3219)
+* [Project Expert Program on Aviyel](https://aviyel.com/post/3021)
+* [More Writings...](https://aviyel.com/search?term=\*&uid=2202&root=blog)
+
+## Achievements
+
+### Tolgee - Level 1
+
+
+
+<img src = https://user-images.githubusercontent.com/26953573/185976945-17d6a646-5a6f-4fa1-a382-39643382b4a8.png width=400 height=200> </img>
+
+[View my contribution log](https://aviyel.com/user/siddharthaviyel/28/rewards?log)
+
+
+### aviyelverse - Level 5
+
+<img src =https://aviyel.com/assets/uploads/rewards/share/user/2202/54/share.png width=400 height=200> </img>
+
+[View my contribution log](https://aviyel.com/user/siddharthaviyel/54/rewards?log)
+
+
+
+
+## Social Links
+[Aviyel](https://aviyel.com/@siddharthaviyel)  •  [github](https://github.com/siddharth2798)  •  [twitter](https://twitter.com/Siddharthshivkr)  •  [medium](https://medium.com/@writeabyte)
+
+
+

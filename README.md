@@ -5,6 +5,7 @@ Building sustainable open source communities 💜
 ## Writings
 
 * [Announcing program for Open source projects](https://aviyel.com/post/3031)
+* [Rewarding Open Source Contributors](https://aviyel.com/post/3615)
 * [Create a Contributor Guide for your open source community!](https://aviyel.com/post/3369)
 * [Contributing to Open Source with Aviyel](https://aviyel.com/post/3219)
 * [Project Expert Program on Aviyel](https://aviyel.com/post/3021)

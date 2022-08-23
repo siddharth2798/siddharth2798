@@ -32,7 +32,7 @@ Building sustainable open source communities 💜
 
 
 ## Social Links
-[Aviyel](https://aviyel.com/@siddharthaviyel)  •  [github](https://github.com/siddharth2798)  •  [twitter](https://twitter.com/Siddharthshivkr)  •  [medium](https://medium.com/@writeabyte)
+[Aviyel](https://aviyel.com/@siddharthaviyel)  •  [github](https://github.com/siddharth2798)  •  [twitter](https://twitter.com/Siddharthshivkr)  •  [medium](https://medium.com/writeabyte)
 
 
 

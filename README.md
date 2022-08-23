@@ -1,6 +1,7 @@
-# Hi 👋, I'm Siddharth
+<h1 align="center"> Hi 👋, I'm Siddharth</h1>
 
-Building sustainable open source communities 💜
+<p align="center">I work as a full time community person for open source through <a href="https://aviyel.com">Aviyel</a> towards building sustainable open source communities 💜</p>
+<br>
 
 ## Writings
 
@@ -32,7 +33,7 @@ Building sustainable open source communities 💜
 
 
 ## Social Links
-[Aviyel](https://aviyel.com/@siddharthaviyel)  •  [github](https://github.com/siddharth2798)  •  [twitter](https://twitter.com/Siddharthshivkr)  •  [medium](https://medium.com/writeabyte)
+[Aviyel](https://aviyel.com/@siddharthaviyel)  •  [Twitter](https://twitter.com/Siddharthshivkr)  •  [Medium](https://medium.com/writeabyte)
 
 
 

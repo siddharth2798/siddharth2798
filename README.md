@@ -3,22 +3,26 @@
 <p align="center">I work as a full time community person for open source through <a href="https://aviyel.com">Aviyel</a> towards building sustainable open source communities 💜</p>
 <br>
 
-## Open Source Achievements
+<h2 align="center"> Open Source Achievements</h2>
 
-### Tolgee - Level 1
+<h3 align="center"> Tolgee - Level 1</h3>
 
 
-
+<p align="center">
 <img src = https://user-images.githubusercontent.com/26953573/185976945-17d6a646-5a6f-4fa1-a382-39643382b4a8.png width=400 height=200> </img>
+</p>
 
-[View my contribution log](https://aviyel.com/user/siddharthaviyel/28/rewards?log)
 
+<a href="https://aviyel.com/user/siddharthaviyel/28/rewards?log"><p align="center">View my contribution log</p></a>
 
-### aviyelverse - Level 5
+<br>
+<h3 align="center"> aviyelverse - Level 5</h3>
 
-<img src =https://aviyel.com/assets/uploads/rewards/share/user/2202/54/share.png width=400 height=200> </img>
+<p align="center">
+<img src =https://aviyel.com/assets/uploads/rewards/share/user/2202/54/share.png width=400 height=200 > </img>
+</p>
 
-[View my contribution log](https://aviyel.com/user/siddharthaviyel/54/rewards?log)
+<a href="https://aviyel.com/user/siddharthaviyel/54/rewards?log"><p align="center">View my contribution log</p></a>
 
 
 
